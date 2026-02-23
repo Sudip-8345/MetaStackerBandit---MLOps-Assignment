@@ -1,8 +1,8 @@
-2026-02-20 20:12:05 - INFO - Job started
-2026-02-20 20:12:05 - INFO - Config loaded: seed=42, window=5, version=v1
-2026-02-20 20:12:05 - INFO - Random seed set to 42
-2026-02-20 20:12:05 - INFO - Data loaded: 10000 rows
-2026-02-20 20:12:05 - INFO - Rolling mean calculated (window=5)
-2026-02-20 20:12:05 - INFO - Signals generated: 10000 total
-2026-02-20 20:12:05 - INFO - Metrics: rows_processed=10000, signal_rate=0.4954, latency_ms=15
-2026-02-20 20:12:05 - INFO - Job completed successfully
+2026-02-23 16:07:25 - INFO - Job started
+2026-02-23 16:07:25 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-23 16:07:25 - INFO - Random seed set to 42
+2026-02-23 16:07:25 - INFO - Data loaded: 10000 rows
+2026-02-23 16:07:25 - INFO - Rolling mean calculated (window=5)
+2026-02-23 16:07:25 - INFO - Signals generated: 10000 total
+2026-02-23 16:07:25 - INFO - Metrics: rows_processed=10000, signal_rate=0.4989, latency_ms=30
+2026-02-23 16:07:25 - INFO - Job completed successfully

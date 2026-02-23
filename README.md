@@ -72,8 +72,8 @@ CSV file with at least a `close` column containing numeric price data. Other OHL
   "version": "v1",
   "rows_processed": 10000,
   "metric": "signal_rate",
-  "value": 0.4990,
-  "latency_ms": 127,
+  "value": 0.4989,
+  "latency_ms": 30,
   "seed": 42,
   "status": "success"
 }
